@@ -15,6 +15,7 @@
 
 
 Скриншот-1 к заданию 2:
+
 ![Скриншот-1](https://github.com/Zzeting/sys-git-hw2/blob/main/img/1.PNG)
 
 
@@ -23,6 +24,7 @@
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
 
 Скриншот-2 к заданию 3:
+
 ![Скриншот-2](https://github.com/Zzeting/sys-git-hw2/blob/main/img/2.PNG)
 
 
@@ -31,9 +33,11 @@
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
 Скриншот-3 к заданию 4:
+
 ![Скриншот-3](https://github.com/Zzeting/sys-git-hw2/blob/main/img/3.PNG)
 
 Скриншот-4 к заданию 4:
+
 ![Скриншот-4](https://github.com/Zzeting/sys-git-hw2/blob/main/img/4.PNG)
 
 
@@ -42,4 +46,5 @@
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.
 
 Скриншот-5 к заданию 5:
+
 ![Скриншот-5](https://github.com/Zzeting/sys-git-hw2/blob/main/img/5.PNG)
